@@ -4,6 +4,7 @@
 >>>>>>> 9c2a13da6835f9007f3e343e8b6f8be3b427a171
 vendor/
 node_modules/
+.idea/
 npm-debug.log
 
 # Laravel 4 specific
