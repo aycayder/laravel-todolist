@@ -1,6 +1,6 @@
 # Todo List Application in Laravel
 
-Todo List Web application in Laravel & Vue.JS
+Todo List Web application in Laravel & Vue.JS. The purpose of this repository is to consume API, provide by a Laravel Application, with the Vue.js JavaScript front-end framework.
 
 ## In progress
 
